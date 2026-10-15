@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Hetvi0456/leetcodeSQL50/tree/master/0785-is-graph-bipartite) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hetvi0456/leetcodeSQL50/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hetvi0456/leetcodeSQL50/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hetvi0456/leetcodeSQL50/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
